@@ -7,5 +7,5 @@ Class bisa digunakan untuk mengorganisir entitas dalam game, seperti karakter, o
 
 # Jelaskan proses pengembangan algoritma yang dilakukan pada game yang dibuat !
 
-
+algoritma pada game ini yaitu, pertama kita masuk dan memulai game lalu kita memilih untuk perjalanan kita di game ini kita bisa memilih mengendarai motor, menaiki bus, atau berjalan kaki, namun setiap pilihan mempunyai tantangan atau manfaat tersendiri, contohnya yaitu ketika kita memilih untuk berjalan kaki maka kita memerlukan waktu lebih lama untuk sampai ke sekolah, ketika kita bisa melewati rintangan maka kita bisa melanjutkan permainan sampai finish tetapi kalau kita tidak bisa melewati rintangan maka game berhenti atau game over
 # Jelaskan bagaimana game yang dibuat dapat didistribusikan dan digunakan oleh pengguna !
